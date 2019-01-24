@@ -1,0 +1,23 @@
+{
+    "name": "todo-next",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "^2.24.0",
+        "nes.css": "^1.0.0",
+        "next": "^7.0.2",
+        "react": "^16.7.0",
+        "react-bootstrap": "^0.32.4",
+        "react-dom": "^16.7.0",
+        "recompose": "^0.30.0"
+    }
+}
